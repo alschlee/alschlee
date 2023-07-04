@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Jinkyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=alschlee&show_icons=true&theme=blue-green)
+![Jinkyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=alschlee&show_icons=true&theme=graywhite)
 
 <div align="left">
   
