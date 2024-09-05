@@ -1,19 +1,10 @@
-<div align=center>
-
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jinkyung's%20GitHub%20🐹&animation=twinkling&fontSize=25&fontAlignY=40&fontAlign=50&height=200)
- 
+<div style="text-align: center;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jinkyung's%20GitHub%20🐹&animation=twinkling&fontSize=25&fontAlignY=40&fontAlign=50&height=200" alt="header" />
 </div>
 
-<div align = left>
-  
-  <a href="s">
-     <img src="https://github-readme-stats.vercel.app/api?username=alschlee&show_icons=true" width="47%" />
- </a>
-  
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
+<div style="text-align: center;">
+  <a href="https://github.com/alschlee">
+    <img src="https://github-readme-stats.vercel.app/api?username=alschlee&show_icons=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alschlee&layout=compact" alt="Top Languages" />
+  </a>
 </div>
-
-
