@@ -61,3 +61,18 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=alschlee&theme=github-compact" alt="GitHub Activity Graph" />
   </a>
 </div>
+
+&nbsp;
+
+<h2 align="center">🔖 My velog </h2>
+<div align="center">
+  <a href="https://github.com/eungyeole/velog-readme-stats">
+    <img src="https://velog-readme-stats.vercel.app/api?name=leejk1072" alt="Velog's GitHub stats"/>
+  </a>
+  <a href="https://velog.io/@eungyeole">
+    <img src="https://velog-readme-stats.vercel.app/api/list?name=leejk1072" alt="Velog's GitHub stats"/>
+  </a>
+</div>
+
+
+
