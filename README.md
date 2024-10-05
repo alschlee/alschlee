@@ -58,7 +58,7 @@
   &nbsp;
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=alschlee&theme=github-compact" alt="GitHub Activity Graph" />
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=alschlee&theme=github-compact" alt="GitHub Activity Graph" />
   </a>
 </div>
 
@@ -66,10 +66,10 @@
 
 <h2 align="center">🔖 My velog </h2>
 <div align="center">
-  <a href="https://github.com/eungyeole/velog-readme-stats">
+  <a href="https://velog.io/@leejk1072">
     <img width="50%" src="https://velog-readme-stats.vercel.app/api?name=leejk1072" alt="Velog's GitHub stats"/>
   </a>
-  <a href="https://velog.io/@eungyeole">
+  <a href="https://velog.io/@leejk1072">
     <img width="40%" src="https://velog-readme-stats.vercel.app/api/list?name=leejk1072" alt="Velog's GitHub stats"/>
   </a>
 </div>
