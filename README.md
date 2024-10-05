@@ -64,15 +64,12 @@
 
 &nbsp;
 
-<h2 align="center">🔖 My velog </h2>
+<h2 align="center">🔖 My Velog</h2>
 <div align="center">
-  <a href="https://github.com/eungyeole/velog-readme-stats">
-    <img width="50%" src="https://velog-readme-stats.vercel.app/api?name=leejk1072" alt="Velog's GitHub stats"/>
+  <a href="https://github.com/eungyeole/velog-readme-stats" style="display: inline-block; width: 45%;">
+    <img src="https://velog-readme-stats.vercel.app/api?name=leejk1072" alt="Velog's GitHub stats"/>
   </a>
-  <a href="https://velog.io/@eungyeole">
-    <img width="50%" src="https://velog-readme-stats.vercel.app/api/list?name=leejk1072" alt="Velog's GitHub stats"/>
+  <a href="https://velog.io/@eungyeole" style="display: inline-block; width: 45%;">
+    <img src="https://velog-readme-stats.vercel.app/api/list?name=leejk1072" alt="Velog's GitHub stats"/>
   </a>
 </div>
-
-
-
