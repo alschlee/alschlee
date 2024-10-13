@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jingyeong's%20GitHub&animation=twinkling&fontSize=25&fontAlignY=40&fontAlign=50&height=200" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=🦦%20Welcome%20to%20Jingyeong's%20GitHub%20🦦&animation=twinkling&fontSize=25&fontAlignY=40&fontAlign=50&height=200" alt="header" />
 </div>
 
-<h2 align="center">🐥 About Me</h2>
+<h2 align="center">About Me</h2>
 <div align="center">
   <p><strong>Name:</strong> Jingyeong Lee</p>
   <p><strong>Major:</strong> IT Media Engineering, Duksung Women's University</p>
@@ -12,7 +12,7 @@
 
 &nbsp;
 
-<h2 align="center">🔗 Tech Stack & Studying</h2>
+<h2 align="center">Tech Stack & Studying</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -64,7 +64,7 @@
 
 &nbsp;
 
-<h2 align="center">🔖 My velog </h2>
+<h2 align="center">My velog </h2>
 <div align="center">
   <a href="https://velog.io/@leejk1072">
     <img width="50%" src="https://velog-readme-stats.vercel.app/api?name=leejk1072" alt="Velog's GitHub stats"/>
