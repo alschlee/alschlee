@@ -67,6 +67,6 @@
 <h2 align="center">My velog </h2>
 <div align="center">
   <a href="https://velog.io/@leejk1072">
-    <img width="40%" src="https://velog-readme-stats.vercel.app/api?name=leejk1072" alt="Velog's GitHub stats"/>
+    <img src="https://velog-readme-stats.vercel.app/api?name=leejk1072" alt="Velog's GitHub stats"/>
   </a>
 </div>
