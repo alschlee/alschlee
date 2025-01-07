@@ -6,7 +6,12 @@
 <div align="center">
   <p><strong>Name:</strong> Jingyeong Lee</p>
   <p><strong>Major:</strong> IT Media Engineering, Duksung Women's University</p>
-  <p><strong>Email:</strong> <a href="mailto:leejingyeong2002@gmail.com">leejingyeong2002@gmail.com</a></p>
+  <p>
+    <strong>Portfolio:</strong> 
+    <a href="https://shorthaired-crush-256.notion.site/1661f2ea9c968000bfa4d5ca3167e48a?pvs=4" target="_blank">
+      Click here to check my portfolio 💌💭
+    </a>
+  </p>
 </div>
 
 &nbsp;
@@ -61,4 +66,3 @@
     <img src="https://velog-readme-stats.vercel.app/api/list?name=leejk1072" alt="Velog's GitHub stats" style="height: 100px;" />
   </a>
 </div>
-
