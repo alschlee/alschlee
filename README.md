@@ -25,3 +25,6 @@
 
 ### Velog
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@leejk1072)
+
+### Now Playing
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001892.2951a916269246d8ba7c435f259b69d9.1459)](https://github.com/rayriffy/apple-music-github-profile)
