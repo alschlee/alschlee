@@ -9,7 +9,7 @@
 
 ### Projects
 - [게이미피케이션 기반 음주 습관 교정 플랫폼, 강아지 모드](https://github.com/PuppyMode-org/PuppyMode-Server)  
-  2024.12 ~ ing &nbsp; ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+  2024.12 ~ 2025.02 &nbsp; ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 - [온프레미스에서 클라우드 전환 컨설팅](https://github.com/SeSAC-Final-Team1)  
   2024.11 ~ 2024.12 &nbsp; ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![CICD](https://img.shields.io/badge/CICD-0072C6?style=flat&logo=circleci&logoColor=white)  
