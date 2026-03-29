@@ -1,30 +1,28 @@
-> Jingyeong Lee  
-> IT Media Engineering, Duksung Women's University | 2021.03 ~ ing
+> 이진경   
+> 덕성여자대학교 IT미디어공학전공 | 2021.03 ~   
+> [leejk.work@gmail.com](mailto:leejk.work@gmail.com)
 
 ### Tech Stack
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+ 
+### Activities
+| 활동 | 기간 | 내용 |
+|:---|:---|:---|
+| UMC Server (Spring Boot) | 2024.09 ~ 2025.08 | • Spring Boot Part Lead<br>• 게이미피케이션 기반 음주 습관 교정 플랫폼, 강아지 모드 [Ver.1](https://github.com/PuppyMode-org/PuppyMode-Server) · [Ver.2](https://github.com/NEW-PuppyMode/PuppyMode-Server)<br>• 라이프스타일 통합 일정 관리 플랫폼, [Indayvidual](https://github.com/Indayvidual/Indayvidual-Server) |
+| 빅데이터분석학회 4기 운영진 (커리큘럼팀) | 2024.02 ~ 2024.08 | • BDA Summary 제작<br>• BDA Workbook 제작 |
 
-### Projects
-- [디지털트윈 기반 VR 환경 교육 게임 플랫폼, Us-Reborn](https://github.com/ITME-Louise)  
-  2025.03 ~ 2025.12 &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=000000)
-  ![Meta Quest 3](https://img.shields.io/badge/Meta%20Quest%203-000000?style=flat&logo=meta&logoColor=white)
-  
-- [라이프스타일 통합 일정 관리 플랫폼, Indayvidual](https://github.com/Indayvidual/Indayvidual-Server)  
-  2025.06 ~ 2025.08 &nbsp; ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-  
-- 게이미피케이션 기반 음주 습관 교정 플랫폼, 강아지 모드  
-  [Backend (Ver. 1)](https://github.com/PuppyMode-org/PuppyMode-Server) · [Backend (Ver. 2)](https://github.com/NEW-PuppyMode/PuppyMode-Server)  
-  2024.12 ~ ing &nbsp; ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+### Awards
+| 수상 | 수상일 |
+|:---|:---|
+| UMC 7th 데모데이 최우수상 | 2025.02 |
+| SeSAC 최종 프로젝트 발표회 최우수상 | 2024.12 |
 
-- [Bunnies House 캐릭터 만들기](https://github.com/alschlee/SeSAC-Mini-Project3)  
-  2024.10 &nbsp; ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-### Portfolio
-🔗 [![Notion Portfolio](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://shorthaired-crush-256.notion.site/1661f2ea9c968000bfa4d5ca3167e48a?pvs=4)
-
-### Velog
-🔗 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@leejk1072)
+### Certifications
+| 자격증 | 취득일 |
+|:---|:---|
+| SQL 개발자 (SQLD) | 2024.04.05 |
+| 정보처리기사 (필기) | - |
