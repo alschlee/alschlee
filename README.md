@@ -12,7 +12,7 @@
 ### Activities
 | 활동 | 기간 | 내용 |
 |:---|:---|:---|
-| UMC Server (Spring Boot) | 2024.09 ~ 2025.08 | • Spring Boot Part Lead<br>• 게이미피케이션 기반 음주 습관 교정 플랫폼, 강아지 모드 [Ver.1](https://github.com/PuppyMode-org/PuppyMode-Server) · [Ver.2](https://github.com/NEW-PuppyMode/PuppyMode-Server)<br>• 라이프스타일 통합 일정 관리 플랫폼, [Indayvidual](https://github.com/Indayvidual/Indayvidual-Server) |
+| UMC Server (Spring Boot) | 2024.09 ~ 2025.08 | • Server Part Lead<br>• 게이미피케이션 기반 음주 습관 교정 플랫폼, 강아지 모드 [Ver.1](https://github.com/PuppyMode-org/PuppyMode-Server) · [Ver.2](https://github.com/NEW-PuppyMode/PuppyMode-Server)<br>• 라이프스타일 통합 일정 관리 플랫폼, [Indayvidual](https://github.com/Indayvidual/Indayvidual-Server) |
 | 빅데이터분석학회 4기 운영진 (커리큘럼팀) | 2024.02 ~ 2024.08 | • BDA Summary 제작<br>• BDA Workbook 제작 |
 
 ### Awards
