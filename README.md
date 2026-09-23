@@ -1,13 +1,11 @@
 > 이진경   
-> 덕성여자대학교 IT미디어공학전공 | 2021.03 ~   
+> 덕성여자대학교 IT미디어공학전공 | 2021.03 ~ 2027.02   
 > [leejk.work@gmail.com](mailto:leejk.work@gmail.com)
 
 ### Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
  
 ### Activities
 | 활동 | 기간 | 내용 |
@@ -20,9 +18,3 @@
 |:---|:---|
 | UMC 7th 데모데이 최우수상 | 2025.02 |
 | SeSAC 최종 프로젝트 발표회 최우수상 | 2024.12 |
-
-### Certifications
-| 자격증 | 취득일 |
-|:---|:---|
-| SQL 개발자 (SQLD) | 2024.04.05 |
-| 정보처리기사 (필기) | - |
